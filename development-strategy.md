@@ -6,7 +6,7 @@ A simple little website for the world to know a little about us.
 
 ## 0. Set-Up
 
-> repository owner: _
+> repository owner: Iryna
 
 __A User can see a empty site at the correct URL__
 
@@ -24,7 +24,7 @@ __A User can see a empty site at the correct URL__
 
 ## 1. about the team
 
-> assigned to _
+> assigned to Yaugenia
 
 __As a site visitor, I want to know about your team and who is in it__
 
@@ -41,15 +41,36 @@ __As a site visitor, I want to know about your team and who is in it__
 
 ---
 
-## 2. Introduce _team member_
+## 2. Introduce _Yulia_
 
-> assigned to _
+> assigned to Yulia
 
-__As a site visitor, I want to learn more about *team member*__
+__As a site visitor, I want to learn more about *Yulia*__
 
 ### Repo
 
-- [ ] developed on a branch named `team-member-name`
+- [ ] developed on a branch named `Yulia`
+
+### team-member-name.md
+
+- [ ] create the file
+- [ ] add their name as the main title
+- [ ] write a paragraph introduction
+- [ ] create a link back to the README
+
+### README.md
+
+- [ ] change their list item into a link
+
+## 3. Introduce Yared
+
+> assigned to Yared
+
+__As a site visitor, I want to learn more about *Yared*__
+
+### Repo
+
+- [ ] developed on a branch named `Yared`
 
 ### team-member-name.md
 
